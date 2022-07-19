@@ -1,9 +1,26 @@
 {
-  "posts": [
+  "quote": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "sales_effective_date": "07/01/2022",
+      "state": "New rates microservice",
+	  "county ": "Regional Marketing Pool", 
+	  "commodity": "New rates microservice",
+	  "type": "New rates microservice",
+	  "number_of_head": 1,
+	  "insured_share_textbox": 123.45,
+	  "target_weight": 12.34
+    },
+	{
+      "id": 2,
+      "sales_effective_date": "07/02/2022",
+      "state": "New rates microservice",
+	  "county ": "Regional Marketing Pool", 
+	  "commodity": "New rates microservice",
+	  "type": "New rates microservice",
+	  "number_of_head": 1,
+	  "insured_share_textbox": 1234.56,
+	  "target_weight": 2.34
     }
   ],
   "comments": [
