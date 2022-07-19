@@ -9,7 +9,8 @@
 	  "type": "New rates microservice",
 	  "number_of_head": 1,
 	  "insured_share_textbox": 123.45,
-	  "target_weight": 12.34
+	  "target_weight": 12.34,
+	  "farmer_rancher": "Beginning"
     },
 	{
       "id": 2,
@@ -20,13 +21,14 @@
 	  "type": "New rates microservice",
 	  "number_of_head": 1,
 	  "insured_share_textbox": 1234.56,
-	  "target_weight": 2.34
+	  "target_weight": 2.34,
+	  "farmer_rancher": "Veteran"
     }
   ],
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
+      "body": "63391- Enter Required Fields for Generic Quote",
       "postId": 1
     }
   ],
